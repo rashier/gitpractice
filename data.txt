@@ -1,0 +1,3 @@
+name: ferney
+age: 35
+color: red
